@@ -8,4 +8,7 @@ class PagesController < ApplicationController
   def pricing 
   end 
 
+  def test 
+  end 
+
 end
